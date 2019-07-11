@@ -8,4 +8,8 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple. 
 >>>>>>> feature2
-Ubuntu is convenient & useful.
+<<<<<<< HEAD
+Ubuntu is convenient and useful.
+=======
+Ubuntu is convenient and useful.
+>>>>>>> feature3
